@@ -1,0 +1,85 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
+
+  .Create{
+    text-align: center;
+    background-color: #dfdfdf;
+  }
+
+
+  #wrapper{
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 30px;
+    width: 500px;
+  }
+
+
+  #createBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+  }
+
+  #createBtn:hover{
+    background-color: #8dbaa4;
+  }
+
+  #titleHeader{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
+
+
+  #createTitle{
+    width: 402px;
+    padding: 0 2em; 
+    border: 0;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #dfdfdf;
+    color: #4c8468;
+    font-weight: 800;
+    font-family: 'NanumSquare', sans-serif;
+  }
+
+  #createContent{
+    width: 402px;
+    height: 60px;
+    margin: 15px;
+    padding: 2em; 
+    border: 0;
+    border-radius: 10px;
+    background-color: #dfdfdf;
+    font-family: 'NanumSquare', sans-serif;
+  }
+
+  input:focus {
+    outline: 2px solid #4c8468;
+  }
+
+  textarea:focus {
+    outline: 2px solid #4c8468;
+  }
+
+  #confirmBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+  }

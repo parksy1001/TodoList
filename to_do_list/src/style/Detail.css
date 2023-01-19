@@ -1,0 +1,143 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
+
+  .Detail{
+    text-align: center;
+    background-color: #dfdfdf;
+  }
+
+  hr{
+    width: 420px;
+  }
+
+  #detailWrapper{
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 30px;
+    width: 500px;
+  }
+
+  #contentBlock{
+    margin: 30px;
+    font-family: 'NanumSquare', sans-serif;
+  }
+
+
+  #idBlock{
+    color: #ffffff;
+  }
+
+  #backHeader{
+    text-align: left;
+    font-weight: bold;
+  }
+
+  #backBtn{
+    display: inline;
+    font-size: x-large;
+  }
+
+  #backBtn:hover{
+    color:#f85151;;
+    font-weight: bolder;
+  }
+
+  #deletedWrapper{
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 100px;
+    width: 500px;
+  }
+  
+
+  #editBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+  }
+
+  #editBtn:hover{
+    background-color: #8dbaa4;
+  }
+  
+  #deleteBtn{
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #4c8468;
+    display: inline-block;
+    color: #4c8468;
+    font-weight: 700;
+  }
+
+  #deleteBtn:hover{
+    color: #8dbaa4;
+    border: 2px solid #8dbaa4;
+  }
+  
+  
+  #btnWrapper{
+
+    margin: 10px;
+
+  }
+
+  
+  #yesBtn{
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #4c8468;
+    display: inline-block;
+    color: #4c8468;
+  }
+
+  #yesBtn:hover{
+    color: #8dbaa4;
+    border: 2px solid #8dbaa4;
+  }
+
+  #noBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+  }
+
+  #noBtn:hover{
+    background-color: #8dbaa4;
+  }
+
+  #modalWrapper{
+    text-align: center;
+  }
+
+
+  h3{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }

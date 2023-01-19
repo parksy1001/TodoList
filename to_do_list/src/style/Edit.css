@@ -1,0 +1,115 @@
+@import url(https://cdn.jsdelivr.net/gh/moonspam/NanumSquare@2.0/nanumsquare.css);
+
+  .Edit{
+    text-align: center;
+    background-color: #dfdfdf;
+  }
+
+  hr{
+    width: 420px;
+  }
+
+  #titleHeader{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+  }
+
+
+    #createBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+  }
+
+  #detailWrapper{
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 30px;
+    width: 500px;
+  }
+
+  #idBlock{
+    color: #ffffff;
+  }
+
+  #backHeader{
+    text-align: left;
+    font-weight: bold;
+    font-size: large;
+  }
+
+  #backBtn{
+    display: inline;
+  }
+
+  #backBtn:hover{
+    color:#f85151;;
+    font-weight: bolder;
+  }
+  
+  #deletedWrapper{
+    background-color: #ffffff;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 50px;
+    padding: 100px;
+    width: 500px;
+  }
+  
+
+  #saveBtn{
+    background-color: #4c8468;
+    border-radius: 10px;
+    margin: 5px;
+    margin-bottom: 20px;
+    padding-left: 215px;
+    padding-right: 215px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+    color: white;
+  }
+
+
+
+  #editTitle{
+    width: 402px;
+    padding: 0 2em; 
+    border: 0;
+    height: 45px;
+    border-radius: 30px;
+    background-color: #dfdfdf;
+    color: #4c8468;
+    font-weight: 800;
+    font-family: 'NanumSquare', sans-serif;
+  }
+
+  #editContent{
+    width: 402px;
+    height: 60px;
+    margin: 15px;
+    padding: 2em; 
+    border: 0;
+    border-radius: 10px;
+    background-color: #dfdfdf;
+    font-family: 'NanumSquare', sans-serif;
+  }
+
+  input:focus {
+    outline: 2px solid #4c8468;
+  }
+
+  textarea:focus {
+    outline: 2px solid #4c8468;
+  }
